@@ -1,14 +1,7 @@
-.table {
-    width: 500px;
-    margin: 20px 0 0 350px;
-    padding: 0;
-    border: 5px solid #fff;
-    text-align: center;
-}
-
 table {
-    width: 500px;
-    height: 541px;
+    width: 520px;
+    height: 573px;
+    margin: 20px 0 0 430px;
     border: 11px solid #fff;
     border-collapse: collapse;
 }
@@ -18,7 +11,7 @@ td {
 }
 
 .td1 {
-    height: 50px;
+    height: 45px;
     background-color: #fff;
 }
 
@@ -27,7 +20,7 @@ td {
 }
 
 .td8 {
-    height: 130px;
+    height: 140px;
     background-color: #ff573d;
 }
 
@@ -37,7 +30,7 @@ td {
 }
 
 .td17 {
-    width: 77px;
+    width: 82px;
     height: 130px;
 }
 
@@ -57,7 +50,7 @@ td {
 }
 
 .td34 {
-    width: 130px;
+    width: 140px;
     height: 30px;
     background-color: #111f1b;
 }
